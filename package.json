@@ -5,7 +5,12 @@
   "repository": "https://github.com/stevekutz/express_microserv1.git",
   "author": "stevekutz <stkutz@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
-    "epxress": "^0.0.1-security"
+    "crypto": "^1.0.1",
+    "epxress": "^0.0.1-security",
+    "nodemon": "^2.0.7"
   }
 }
