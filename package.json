@@ -1,0 +1,11 @@
+{
+  "name": "express_microserv1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stevekutz/express_microserv1.git",
+  "author": "stevekutz <stkutz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "epxress": "^0.0.1-security"
+  }
+}
